@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "UAMS",
+            "type": "python",
+            "request": "attach",
+            "port": 3000,
+            "preLaunchTask": "func: host start"
+        }
+    ]
+}

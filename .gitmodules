@@ -1,0 +1,3 @@
+[submodule "lawli_latest_UAMS"]
+	path = lawli_latest_UAMS
+	url = git@github.com:Drake-ali/lawli_latest_UAMS.git
